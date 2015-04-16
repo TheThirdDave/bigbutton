@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bigbutton</string>
+    <string name="button_text">Push Me!</string>
+    <string name="pushed_1">You have pushed me </string>
+    <string name="pushed_2"> times!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
